@@ -1,0 +1,21 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        Andy Tran
+    </title>
+    <desc>Andy Tran Logo (https://andytran.me)- Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.74%" y1="40.372%" x2="50%" y2="17.637%" id="a">
+            <stop stop-color="#CCCCCC" offset="0%"/>
+            <stop stop-color="#FFFFFF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="17.577%" x2="50%" y2="91.62%" id="b">
+            <stop stop-color="#CCCCCC" offset="0%"/>
+            <stop stop-color="#FFFFFF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(-3 -10)" fill="none" fill-rule="evenodd">
+        <rect fill="url(#a)" transform="scale(-1 1) rotate(63 0 -73.575)" x="138.502" y="132.902" width="60" height="136.988" rx="30"/>
+        <rect fill="url(#b)" transform="scale(-1 1) rotate(25 0 -616.458)" x="135.597" y="2" width="60" height="257" rx="30"/>
+        <rect fill="#FFFFFF" transform="rotate(25 81.597 129.5)" x="51.597" y="1" width="60" height="257" rx="30"/>
+    </g>
+</svg>
